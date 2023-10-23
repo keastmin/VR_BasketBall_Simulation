@@ -38,3 +38,6 @@ VR 환경
 -  컨트롤러와 오브젝트 콜라이더가 충돌해 플레이어가 밀려나는 현상 발생  
 -  OVR Player Controller -> Custom Hand Left -> OVR Grabber 컴포넌트 -> Parent Transform에 Left Controller Anchor, Player에 OVR Player Controller 할당하여 밀려나는 현상 개선  
 
+
+
+결과  
